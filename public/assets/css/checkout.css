@@ -1,0 +1,18 @@
+.checkout-container {
+    overflow-x: hidden;
+}
+.shipping-method-btn {
+    cursor: pointer;
+}
+.checkout-wrap {
+    background: #ffffff;
+}
+.checkout-sidebar {
+    border-left: 1px solid #eeeeee;
+    background: #f9f9f9;
+    min-height: 100vh;
+}
+@media (min-width: 1000px)
+{
+
+}   
